@@ -1,2 +1,2 @@
-# cryptographic_algorithms
-implementation of cryptographic algorithms in different languages
+# cryptographic algorithms
+implementation of various cryptographic algorithms in python
