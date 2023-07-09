@@ -64,7 +64,7 @@ def decode(crypted_text, key):
 
 def run_example():
     #plain_text = input('Enter your text to encode: ')
-    key = "LO24114IRF"
+    key = "SECRET_WORD"
     result = encode("When pride comes, then comes disgrace, but with humility comes wisdom!", key)
     print(f'Encoded: {result}')
     dresult = decode(result, key)
